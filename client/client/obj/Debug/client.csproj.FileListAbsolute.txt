@@ -1,0 +1,10 @@
+C:\Users\mofasiul\Downloads\signalrproject\client\client\bin\Debug\client.exe.config
+C:\Users\mofasiul\Downloads\signalrproject\client\client\bin\Debug\client.exe
+C:\Users\mofasiul\Downloads\signalrproject\client\client\bin\Debug\client.pdb
+C:\Users\mofasiul\Downloads\signalrproject\client\client\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+C:\Users\mofasiul\Downloads\signalrproject\client\client\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mofasiul\Downloads\signalrproject\client\client\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+C:\Users\mofasiul\Downloads\signalrproject\client\client\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mofasiul\Downloads\signalrproject\client\client\obj\Debug\client.csprojResolveAssemblyReference.cache
+C:\Users\mofasiul\Downloads\signalrproject\client\client\obj\Debug\client.exe
+C:\Users\mofasiul\Downloads\signalrproject\client\client\obj\Debug\client.pdb
